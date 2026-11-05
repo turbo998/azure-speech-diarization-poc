@@ -66,3 +66,10 @@ options = TranscriptionOptions(diarization_options=diarization)
 ```powershell
 python -m unittest discover -s tests -v
 ```
+
+---
+
+## 🔗 Related Repositories (Voice & Speech AI Family)
+
+- [`turbo998/voice-agent-lab`](https://github.com/turbo998/voice-agent-lab) — Consolidated Voice AI engineering lab (GPT-Realtime, ACS, WebRTC, and acoustic evaluation probes)
+- [`turbo998/contact-center-on-gpt-realtime`](https://github.com/turbo998/contact-center-on-gpt-realtime) — Intelligent contact center reference architecture on Azure OpenAI GPT-Realtime

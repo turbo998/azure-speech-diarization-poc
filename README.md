@@ -72,3 +72,9 @@ python -m unittest discover -s tests -v
 
 全部 **16 项单元测试**（含 ZIP 路径穿越防护、立体声分轨与单声道混音、显式 `diarization.enabled=true` 序列化断言、`--locale auto` 省略断言、匈牙利/全排列最优声道对齐算法）均在本地离线秒级通过。
 
+---
+
+## 🔗 关联仓库（Voice & Speech AI 家族）
+
+- [`turbo998/voice-agent-lab`](https://github.com/turbo998/voice-agent-lab) — 实时语音与多模态语音 Agent 综合实验室（GPT-Realtime、ACS、WebRTC、声学评测探针）
+- [`turbo998/contact-center-on-gpt-realtime`](https://github.com/turbo998/contact-center-on-gpt-realtime) — 基于 Azure OpenAI GPT-Realtime 的智能联络中心参考架构
