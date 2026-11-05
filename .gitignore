@@ -6,3 +6,16 @@ __pycache__/
 *.zip
 outputs/
 results/
+# Repository privacy boundary: keep credentials and machine state local.
+**/.env
+**/.env.*
+!**/.env.example
+!**/.env.sample
+!**/.env.template
+!**/.env.*.example
+**/id_rsa
+**/id_ed25519
+**/*.pfx
+**/*.p12
+**/*.tfstate
+**/*.tfstate.*
